@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Classes</id>
+    <version>1.0.0</version>
+    <authors>Classes</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="fa12a2885d38cfbbc7b3097d0aa73c0f2f516022" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\benan\OneDrive\Desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json" target="lib\net6.0\Classes.runtimeconfig.json" />
+    <file src="C:\Users\benan\OneDrive\Desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.dll" target="lib\net6.0\Classes.dll" />
+  </files>
+</package>
